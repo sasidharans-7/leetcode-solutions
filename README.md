@@ -24,6 +24,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
