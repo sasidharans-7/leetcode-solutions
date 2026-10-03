@@ -17,6 +17,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0005-longest-palindromic-substring](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
