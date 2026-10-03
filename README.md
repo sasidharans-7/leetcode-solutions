@@ -50,6 +50,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0011-container-with-most-water](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0005-longest-palindromic-substring](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +87,5 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
