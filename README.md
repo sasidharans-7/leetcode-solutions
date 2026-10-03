@@ -18,6 +18,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
