@@ -44,6 +44,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0014-longest-common-prefix](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +113,5 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
