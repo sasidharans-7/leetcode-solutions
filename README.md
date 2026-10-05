@@ -25,6 +25,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0010-regular-expression-matching](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0044-wildcard-matching](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0022-generate-parentheses](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
+| [0044-wildcard-matching](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0010-regular-expression-matching](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
