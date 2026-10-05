@@ -64,6 +64,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0018-4sum](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
