@@ -33,6 +33,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0012-integer-to-roman](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0033-search-in-rotated-sorted-array](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,8 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
