@@ -50,6 +50,7 @@ A collection of my LeetCode solutions and algorithmic problem-solving practice.
 | [0020-valid-parentheses](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0038-count-and-say](https://github.com/sasidharans-7/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
